@@ -33,8 +33,11 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 Sigue estos pasos para instalar y ejecutar la aplicación:
 
 1. Clona este repositorio en tu máquina local:
-   ```bash git clone https://github.com/Fishertdevs/Buscador_de_Librerias.git
+   ```bash
+git clone https://github.com/Fishertdevs/Buscador_de_Librerias.git
+
 pip install -r requirements.txt
+
 cd BuscadorLibreriasPython
 ## Preview
 
